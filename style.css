@@ -1,0 +1,141 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+  }
+  footer {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    height: 150px;
+    background-color: rgb(15, 15, 15);
+  }
+  span{
+    color: #ff0028;
+  }
+  h1 {
+    color: grey;
+    font-size: 3em;
+  }
+  
+  
+  #top-section {
+    display: flex;
+    padding-bottom: 200px;
+  }
+  #mid-section {
+    display: flex;
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: 130%;
+    margin-bottom: 100px;
+    
+  }
+  #recipie-zone {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #subscriber {
+    margin: 80px auto 30px;
+  }
+  .bold {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+  }
+  .orange-color {
+    color: rgb(0, 81, 255);
+  }
+  .color-grey {
+    color: rgb(0, 0, 0);
+  }
+  
+  .top-heading {
+    margin-top: 40%;
+    padding-bottom: 30px;
+    margin-right: 20%;
+  
+  }
+  .top-heading p{
+    font-size: 20px;
+  }
+  .half-width {
+    padding-left: 10%;
+    width: 50%;
+  }
+  
+  .half-width img {
+    width: 90%;
+  }
+  .recipie-heading {
+    display: inline-block;
+    text-align: center;
+    margin: 0 25%;
+    width: 50%;
+    padding-bottom: ;
+  }
+  .recipie {
+    margin: 0 20px;
+    display: inline;
+    box-shadow: 15px 10px 30px rgb(163, 163, 163);
+    padding: 20px;
+    border-radius: 10px;
+    width: 25%;
+  }
+  .recipie img {
+    height: 300px;
+    width: 100%;
+    border-radius: 10px;
+  }
+  .recipie h1 {
+    color: rgb(45, 45, 45);
+  }
+  .order-button {
+    padding-top: 30px;
+    text-decoration: none;
+    padding: 15px 30px;
+    background: linear-gradient(#aa2204, #ffa233);
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    box-shadow: 10px 5px 30px solid grey;
+  }
+  .contact-button {
+    text-decoration: none;
+    padding: 15px 30px;
+    background: linear-gradient(#740411, #f45c43);
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    box-shadow: 10px 5px 30px solid grey;
+  }
+  .subscriber-varient {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 10px 5px 30px grey;
+  }
+  .subscriber-varient p {
+    font-size: 2em;
+    margin: 5px 0;
+    font-weight: bold;
+    color: rgb(36, 36, 36);
+  }
+  .subs-number {
+    text-align: center;
+    margin: 8%;
+  }
+  
+  .footer-small {
+    color: white;
+  }
+  .footer-content {
+    text-align: center;
+    padding-top: 30px;
+    color: rgb(255, 255, 255);
+  }
+  
